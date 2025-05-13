@@ -10,6 +10,11 @@ A Streamlit app that lets you upload a PDF or TXT document and chat with it usin
 - Uses Cohere for embeddings and generation
 - Uses Qdrant for vector similarity search
 
+- ## 📽️ Demo
+
+[Click here to watch the demo](demo.mp4)
+
+
 ## Setup
 
 ```bash
